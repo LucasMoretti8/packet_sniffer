@@ -1,4 +1,10 @@
-The tool is part of an ethical hacking educational toolset which is normally taught in ethical hacking and computer security degrees or courses (please see code of conduct). 
+The tool is part of an ethical hacking educational toolset which is normally taught in ethical hacking and computer security degrees or courses. 
 
-# Code of Conduct
-**Launching this tool against unauthorised and unwilling users is both immoral and illegal. As am ethical white hat hacker or security specialist, your job after taking permission, is to discover vulnerabilities in programs, systems and networks or to help in discovering any gullibility in users (by social engineering). Thus, you can launch Baal or any other tool that I might publish later in this hacking series only and only when you are given explicit permission by the company that hires you or you are launching attacks against your own servers or networks. This tool is written after taking several Ethical Hacking and computer security courses. So, in other words, the code, which has a generated executable is intentionally detectable by antiviruses. It can be found in a form or another in many ethical hacking books and courses. I have added many enhancements to the tools of course. To reiterate: This is a tool written for the sole purpose of teaching you how backdoors work and it also shows you how much it is easy to write a simple, effective and yet powerful backdoor in Python. This tool is for educational purposes only and it is not meant to be used in any harmful way. To reiterate, this tool is meant to be a tool to be studied by white hat hackers and security specialists and is not meant to be deployed or used against users that do not give you explicit permission.**
+# DISCLAIMER
+**The tools provided in this repository are for educational purposes only. By using these tools, you agree to the following terms:
+
+Unauthorized Use: You are solely responsible for ensuring you have permission to use these tools on any system. Using them for unauthorized penetration testing or malicious activity is strictly prohibited.
+Misuse: These tools are designed to identify vulnerabilities. Their misuse can cause damage to systems and data. You agree to use them with caution and at your own risk.
+Legality: You are responsible for complying with all applicable laws and regulations regarding penetration testing in your jurisdiction.
+Disclaimer of Warranties: The tools are provided "as is" without warranty of any kind, expressed or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+Limitation of Liability: The author(s) shall not be liable for any damages arising out of the use or misuse of these tools.**
